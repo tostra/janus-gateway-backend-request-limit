@@ -1,4 +1,4 @@
-# janus-gateway-backend-request-monitor
+# janus-gateway-backend-request-limit
 Rate limit requests/bursts of messages to janus back-end from authendicated users. 
 
 More info about the issue:
