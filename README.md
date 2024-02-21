@@ -1,5 +1,5 @@
 # janus-gateway-backend-request-monitor
-Rate limit requests/bursts of messages to janus back-end from authendicated users that can exhaust your systems CPU. 
+Rate limit requests/bursts of messages to janus back-end from authendicated users. 
 
 Tested: 
 Janus legacy in Debian.
