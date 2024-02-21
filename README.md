@@ -1,9 +1,6 @@
 # janus-gateway-backend-request-monitor
 Rate limit requests/bursts of messages to janus back-end from authendicated users. 
 
-Tested: 
-Janus legacy in Debian.
-
 More info about the issue:
 https://github.com/meetecho/janus-gateway/issues/2964
 
