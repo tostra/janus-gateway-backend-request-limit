@@ -6,5 +6,5 @@ More info about the issue:
 
 # how to install
 1. Modify your 2 Janus files accordingly (janus.c and janus.h) in your janus-gateway directory.
-2. make install (in the "cd janus-gateway", in the janus-gateway directory)
+2. "make install" or "sudo make install" (in the "cd janus-gateway", in the janus-gateway directory)
 3. restart janus server
